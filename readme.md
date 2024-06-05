@@ -1,0 +1,1 @@
+# Financial Analyst Agent To Be Built Using Open Source LLMs and ReAct Prompting
